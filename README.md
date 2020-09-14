@@ -18,7 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetcankaraoglan&show_icons=true" alt="ahmetcankaraoglan" /></p>
 
 <p align="center">
-<a href="https://twitter.com/https://twitter.com/ahmetcankaraol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AhmetCanKaraol" height="30" width="30" /></a>
+<a href="https://twitter.com/https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AhmetCanKaraol" height="30" width="30" /></a>
 <a href="https://kaggle.com/ahmetcankaraolan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ahmetcankaraolan" height="30" width="30" /></a>
-<a href="https://medium.com/https://medium.com/@krglnahmetcan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@krglnahmetcan" height="30" width="30" /></a>
+<a href="https://medium.com/https://medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="krglnahmetcan" height="30" width="30" /></a>
 </p>
