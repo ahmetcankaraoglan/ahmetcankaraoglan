@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmetcankaraol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ahmetcankaraol" height="30" width="40" /></a>
-<a href="ahmetcankaraoglan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmetcankaraoglan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmetcankaraoglan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmetcankaraoglan/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmetcankaraolan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ahmetcankaraolan" height="30" width="40" /></a>
 <a href="https://medium.com/@krglnahmetcan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@krglnahmetcan" height="30" width="40" /></a>
 </p>
@@ -25,4 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetcankaraoglan&show_icons=true&locale=en&layout=compact" alt="ahmetcankaraoglan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetcankaraoglan&show_icons=true&locale=en" alt="ahmetcankaraoglan" /></p>
+
+
 
