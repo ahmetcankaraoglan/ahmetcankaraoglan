@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetcankaraoglan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcankaraoglan" /> </p>
 
+I’m a Senior Data Scientist with 4+ years of experience. What interests me most about AI is what happens after the demo, when the data gets messy and the system has to work every day. At ING, I design, build, and monitor ML systems where privacy, explainability, and on-premises infrastructure shape the work from the start.
+
 - 🔭 I’m currently working on **document intelligence and production ML systems at ING**
 
 - 🌱 I’m exploring **how to evaluate AI systems on messy real-world data**
