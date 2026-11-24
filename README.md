@@ -16,6 +16,19 @@ I’m a Senior Data Scientist with 4+ years of experience. What interests me mos
 
 - 📫 How to reach me **krglnahmetcan@gmail.com**
 
+### What I work on
+
+- **Document intelligence.** I designed SIGNORA and lead its development. It combines OCR, layout analysis, computer vision, LLMs, and rule-based validation to extract who can sign on behalf of a company and under what conditions. In local tests, it reached ~95% end-to-end document success and reduced processing time from ~26 minutes to 6–10 minutes.
+- **Production ML.** I co-developed FutureOps and am now its primary technical owner. One workflow processes 100K+ documents per month at ~90% extraction accuracy.
+- **Graph ML and anomaly detection.** I designed and deployed a GraphSAGE model that improved suspicious transaction detection recall from ~5% to ~30%. I also built an Isolation Forest model that the Internal Control team adopted for monthly monitoring.
+- **Generative AI.** I’ve worked on vector retrieval, model evaluation, and agentic workflows for enterprise LLM applications.
+
+### Highlights
+
+- 🏆 Led our team to first place in Türkiye and represented Türkiye at the global finals of ING’s 2026 Global AI Hackathon. The competition drew 360 teams across 12 countries.
+- 🏅 Co-developed LionMind, a RAG-based contract analysis tool that won the People’s Choice Award at ING Türkiye’s internal hackathon.
+- 👨‍🏫 Mentored 130+ data science bootcamp participants across six cohorts and created an eight-hour Turkish deep learning course with 3,000+ enrollments.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmetcankaraol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmetcankaraol" height="30" width="40" /></a>
