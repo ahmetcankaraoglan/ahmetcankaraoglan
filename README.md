@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmet Can</h1>
 <h3 align="center">Senior Data Scientist at ING | Applied AI, Generative AI & Machine Learning</h3>
+<p align="center"><em>My starting point will not determine how far I can go.</em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetcankaraoglan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcankaraoglan" /> </p>
 
 - 🔭 I’m currently working on **document intelligence and production ML systems at ING**
 
-- 🌱 I’m exploring **ow to evaluate AI systems on messy real-world data**
+- 🌱 I’m exploring **how to evaluate AI systems on messy real-world data**
 
 - 👨‍💻 Browse my public projects [https://github.com/ahmetcankaraoglan?tab=repositories](https://github.com/ahmetcankaraoglan?tab=repositories)
 
